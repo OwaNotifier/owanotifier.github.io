@@ -1,6 +1,8 @@
 # OwaNotifier : get notified !
 
 This daemon display notification when you have new mail on Office365 Outlook.
+[![Build Status](https://travis-ci.org/matgou/owa-notifier.svg?branch=master)](https://travis-ci.org/matgou/owa-notifier)
+[![codecov.io](https://codecov.io/github/matgou/owa-notifier/coverage.svg?branch=master)](https://codecov.io/github/matgou/owa-notifier?branch=master)
 
 ## Screenshoot
 
