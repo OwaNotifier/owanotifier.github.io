@@ -1,11 +1,27 @@
 # OwaNotifier : get notified !
 
-This daemon display notification when you have new mail on Office365 Outlook
+This daemon display notification when you have new mail on Office365 Outlook.
 
 ## Screenshoot
 
+### Get notified when you have unread mail
 ![screenshot-notification](https://raw.githubusercontent.com/matgou/owa-notifier/master/documentation/screenshot-swing-notification.png "Screenshot Using Swing Notification")
 
+### Unread mail reminder by icon tray
+
+### Temporary mute notification
+
+## Usage
+
+Just click on "jar" file :
+
+## Minimum requirement
+
+| System Requirements | minimum level |
+|---|---|
+| Operating System  | Linux or Windows |
+| Java | OracleJRE or OpenJDK 6 or greater  |
+| Memory | 64Mo |
 
 ## Download 
 
