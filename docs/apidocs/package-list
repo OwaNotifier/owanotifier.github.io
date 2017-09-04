@@ -1,0 +1,13 @@
+com.notification
+com.notification.types
+info.kapable.utils.owanotifier
+info.kapable.utils.owanotifier.auth
+info.kapable.utils.owanotifier.desktop
+info.kapable.utils.owanotifier.desktop.action
+info.kapable.utils.owanotifier.exception
+info.kapable.utils.owanotifier.notification.manager
+info.kapable.utils.owanotifier.service
+info.kapable.utils.owanotifier.teststubs
+info.kapable.utils.owanotifier.theme
+info.kapable.utils.owanotifier.utils
+info.kapable.utils.owanotifier.webserver
