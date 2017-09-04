@@ -9,7 +9,11 @@ This daemon display notification when you have new mail on Office365 Outlook.
 
 ### Unread mail reminder by icon tray
 
+![screenshot-traynotification](https://raw.githubusercontent.com/owanotifier/owanotifier.github.io/master/images/TrayNotification.png "Screenshot Tray")
+
 ### Temporary mute notification
+
+![screenshot-menu](https://raw.githubusercontent.com/owanotifier/owanotifier.github.io/master/images/trayMenu.png "Screenshot Menu")
 
 ## Usage
 
