@@ -1,6 +1,6 @@
 # OwaNotifier : get notified !
 
-This daemon display notification when you have new mail on Office365 Outlook. [![Github Download](https://img.shields.io/badge/download-1.0.0-green.svg?style=plastic)](https://github.com/OwaNotifier/owa-notifier/releases/download/owanotifier-1.0.0/OwaNotifier-jar-with-dependencies.jar)
+This daemon display notification when you have new mail on Office365 Outlook (https://outlook.office.com/owa/). [![Github Download](https://img.shields.io/badge/download-1.0.0-green.svg?style=plastic)](https://github.com/OwaNotifier/owa-notifier/releases/download/owanotifier-1.0.0/OwaNotifier-jar-with-dependencies.jar)
 
 [![Build Status](https://travis-ci.org/matgou/owa-notifier.svg?branch=master)](https://travis-ci.org/matgou/owa-notifier)
 [![codecov.io](https://codecov.io/github/matgou/owa-notifier/coverage.svg?branch=master)](https://codecov.io/github/matgou/owa-notifier?branch=master)
