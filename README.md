@@ -33,6 +33,13 @@ Login on Microsoft :
 | Java | OracleJRE or OpenJDK 6 or greater  |
 | Memory | 64Mo |
 
+### For low memory desktop
+
+Just create symlink with those parameters:
+```bash
+java -jar OwaNotifier-jar-with-dependencies.jar -Xmx16m -Xms16m -Xss200k
+```
+
 ## Download & Developpement
 
 |Ressources|Link|
