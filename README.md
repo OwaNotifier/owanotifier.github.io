@@ -23,6 +23,10 @@ Just click on "jar" file :
 | Java | OracleJRE or OpenJDK 6 or greater  |
 | Memory | 64Mo |
 
-## Download 
+## Download & Developpement
 
-You can download latest release : [OwaNotifier-jar-with-dependencies.jar](https://github.com/OwaNotifier/owa-notifier/releases/latest)
+|Ressources|Link|
+|---|---|
+| Latest release | [OwaNotifier-jar-with-dependencies.jar](https://github.com/OwaNotifier/owa-notifier/releases/latest) |
+| Github Project | https://github.com/OwaNotifier/owa-notifier |
+| JavaDoc | [Java documentation](https://owanotifier.github.io/docs/apidocs/) |
