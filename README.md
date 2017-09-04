@@ -14,7 +14,12 @@ This daemon display notification when you have new mail on Office365 Outlook.
 ## Usage
 
 Just click on "jar" file :
+
 ![screenshot-click](https://raw.githubusercontent.com/owanotifier/owanotifier.github.io/master/images/OwaNotifier-jar-click.png "Screenshot Lauching")
+
+Login on Microsoft :
+
+![screenshot-login](https://raw.githubusercontent.com/owanotifier/owanotifier.github.io/master/images/login.microsoft.com.png "Screenshot Login")
 
 ## Minimum requirement
 
